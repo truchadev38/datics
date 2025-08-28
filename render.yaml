@@ -5,5 +5,5 @@ services:
     plan: free
     autoDeploy: true
     envVars:
-      - key: WEBHOOK_URL
+      - key: N8N_HOST
         value: https://n8n-datics.onrender.com
